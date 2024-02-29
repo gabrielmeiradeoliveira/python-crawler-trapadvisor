@@ -33,11 +33,6 @@ Este é um script Python para extrair informações sobre restaurantes do TripAd
 
 2. O script irá raspar informações sobre restaurantes do TripAdvisor e salvar os resultados em um arquivo JSON chamado `_locais.json`.
 
-## Personalização
-
-- Você pode personalizar a busca de restaurantes alterando os parâmetros na URL dentro da função `main()`.
-- Para personalizar a quantidade de páginas a serem raspadas, ajuste o valor da variável `numero_pagina` dentro da função `main()`.
-
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir problemas para melhorias ou correções.
