@@ -40,5 +40,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests o
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
-
-# python-crawler-trapadvisor
